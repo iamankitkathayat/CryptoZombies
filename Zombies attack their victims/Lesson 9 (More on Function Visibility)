@@ -1,0 +1,1 @@
+Change the "private" to "internal" to the function _createZombie in zombieFactory.sol
