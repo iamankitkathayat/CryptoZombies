@@ -1,3 +1,3 @@
 # CryptoZombies
 Code related to each LESSON
-The first lesson called "Making the Zombie Factory'
+Cryptozombies is an online game which teaches solidity throughout
