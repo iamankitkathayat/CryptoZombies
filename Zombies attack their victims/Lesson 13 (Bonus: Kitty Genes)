@@ -1,0 +1,4 @@
+1:  function feedAndMultiply(uint _zombieId, uint _targetDna, string memory _species) public {
+2:  if (keccak256(abi.encodePacked(_species)) == keccak256(abi.encodePacked("kitty"))) {
+        newDna = newDna - newDna % 100 + 99;
+3:  feedAndMultiply(_zombieId, kittyDna, "kitty");
