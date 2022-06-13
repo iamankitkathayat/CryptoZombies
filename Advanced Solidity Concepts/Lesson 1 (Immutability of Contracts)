@@ -1,0 +1,5 @@
+1. Delete the line 22
+2. KittyInterface kittyContract;    //in the line 24
+3. function setKittyContractAddress(address _address) external {
+      kittyContract = KittyInterface(_address);
+   }
