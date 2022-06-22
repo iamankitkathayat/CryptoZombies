@@ -1,1 +1,2 @@
 import "./ownable.sol";
+contract ZombieFactory
