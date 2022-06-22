@@ -1,2 +1,2 @@
 import "./ownable.sol";
-contract ZombieFactory
+contract ZombieFactory is Ownable
