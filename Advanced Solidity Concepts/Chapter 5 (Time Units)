@@ -1,1 +1,2 @@
-uint cooldownTime = 1;
+uint cooldownTime = 1 days;
+uint id = zombies.push(Zombie(_name, _dna, 1, uint32(now + cooldownTime))) - 1;
