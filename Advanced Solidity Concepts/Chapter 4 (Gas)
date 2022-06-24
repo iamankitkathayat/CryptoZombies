@@ -1,0 +1,2 @@
+uint32 level;
+uint32 readyTime;
