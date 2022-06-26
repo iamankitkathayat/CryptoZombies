@@ -1,1 +1,2 @@
 ' function feedAndMultiply(uint _zombieId, uint _targetDna, string memory _species) internal { '
+require(_isReady(myZombie));
