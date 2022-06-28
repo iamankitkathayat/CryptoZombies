@@ -1,0 +1,2 @@
+    uint[] memory result = new uint[](ownerZombieCount[_owner]);
+    return result;
