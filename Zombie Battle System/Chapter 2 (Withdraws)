@@ -4,5 +4,5 @@ function withdraw() external onlyOwner {
   }
 
 function setLevelUpFee(uint _fee) external onlyOwner {
-    levelUpFee = _fee
+    levelUpFee = _fee;
   }
