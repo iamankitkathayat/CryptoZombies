@@ -1,0 +1,6 @@
+uint levelUpFee = 0.001 ether; //on line 7
+
+function levelUp(uint _zombieId) external payable {      //on line 14
+    require(msg.value == levelUpFee);
+    zombies[_zombieId].level++;
+  }
