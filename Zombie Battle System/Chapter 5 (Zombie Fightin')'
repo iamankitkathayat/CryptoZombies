@@ -1,0 +1,4 @@
+uint attackVictoryProbability = 70;           //on line 7
+function attack(uint _zombieId, uint _targetId) external {      //on line 14
+    
+  }
