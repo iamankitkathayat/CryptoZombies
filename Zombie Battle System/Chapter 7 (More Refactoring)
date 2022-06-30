@@ -1,0 +1,2 @@
+function changeName(uint _zombieId, string calldata _newName) external aboveLevel(2, _zombieId) ownerOf(_zombieId) {            //On line 29 and remove require from the function
+function changeDna(uint _zombieId, uint _newDna) external aboveLevel (20, _zombieId) ownerOf(_zombieId) {               //On line 35 and remove require from the function
