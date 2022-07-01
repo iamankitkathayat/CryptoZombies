@@ -1,0 +1,2 @@
+import "./erc721.sol";          //On line 4
+contract ZombieOwnership is ZombieAttack, ERC721 {                      //on line 7
