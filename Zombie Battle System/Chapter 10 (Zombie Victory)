@@ -1,0 +1,6 @@
+if(rand <= attackVictoryProbability){
+      myZombie.winCount++;
+      myZombie.level++;
+      enemyZombie.lossCount++;
+      feedAndMultiply(_zombieId, enemyZombie.dna, "zombie");
+    }
