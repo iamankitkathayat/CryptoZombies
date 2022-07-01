@@ -1,0 +1,4 @@
+else{myZombie.lossCount++;
+    enemyZombie.winCount++;
+    _triggerCooldown(myZombie);
+    }
