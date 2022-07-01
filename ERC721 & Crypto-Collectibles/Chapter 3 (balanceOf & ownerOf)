@@ -1,0 +1,2 @@
+return ownerZombieCount[_owner];
+return zombieToOwner[_tokenId];
