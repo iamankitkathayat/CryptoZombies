@@ -1,0 +1,2 @@
+modifier onlyOwnerOf(uint _zombieId) {                        //On line 25
+function feedAndMultiply(uint _zombieId, uint _targetDna, string memory _species) internal onlyOwnerOf(_zombieId) {       //On line 43
