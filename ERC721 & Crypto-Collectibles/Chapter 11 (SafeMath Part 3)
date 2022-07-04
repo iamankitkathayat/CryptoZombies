@@ -1,0 +1,3 @@
+  using SafeMath32 for uint32;
+  using SafeMath16 for uint16;
+ownerZombieCount[msg.sender] = ownerZombieCount[msg.sender].add(1);
