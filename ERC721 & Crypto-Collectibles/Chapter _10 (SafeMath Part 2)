@@ -1,0 +1,2 @@
+ownerZombieCount[_to] = ownerZombieCount[_to].add(1);
+ownerZombieCount[_from] = ownerZombieCount[_from].sub(1);
