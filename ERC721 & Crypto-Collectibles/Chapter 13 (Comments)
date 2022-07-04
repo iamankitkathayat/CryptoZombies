@@ -1,0 +1,3 @@
+// @title A contract that manages transfering zombie ownership
+// @author Ankit Kathayat
+// @dev Compliant with OpenZeppelin's implementation of the ERC721 spec draft
