@@ -1,0 +1,4 @@
+mapping (uint => address) zombieApprovals;
+
+require(zombieToOwner[_tokenId] == msg.sender || zombieApprovals[_tokenId] == msg.sender);
+    _transfer(_from, _to, _tokenId);
