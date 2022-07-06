@@ -1,0 +1,7 @@
+beforeEach(async () => {
+  // let's put here the code that creates a new contract instance
+});
+
+it("should not allow two zombies", async () => {
+        
+    })
