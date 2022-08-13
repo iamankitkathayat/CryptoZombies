@@ -1,0 +1,3 @@
+const loomTruffleProvider = new LoomTruffleProvider(chainId, writeUrl, readUrl, privateKey);
+                loomTruffleProvider.createExtraAccountsFromMnemonic(mnemonic, 10);
+                return loomTruffleProvider;
