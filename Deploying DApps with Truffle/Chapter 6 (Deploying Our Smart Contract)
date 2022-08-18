@@ -1,1 +1,1 @@
-Chapter 6: Deploying Our Smart Contract
+truffle migrate --network rinkeby
